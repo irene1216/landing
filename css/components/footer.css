@@ -1,0 +1,15 @@
+#footer{
+  background: rgba(68,68,68,0.9);
+  font-size: 20px;
+  color: rgba(240,240,240,0.6);
+  padding: 40px 170px;
+}
+
+/*#footer a {
+  font-size: 20px;
+  color: rgba(240,240,240,0.6);
+}
+*/
+#footer a:hover{
+  color: white;
+}
